@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Maximalauszeichnung eines exemplarischen Schlegel-Briefes</title>
+                <editor>
+                    <persName>
+                        <forename>Tim</forename><surname>Schubert</surname>
+                    </persName>
+                    <persName>
+                        <forename>Gesine</forename><surname>Janke</surname>
+                    </persName>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <ab type="Dateiname">AWS-aw-00kc.xml</ab>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <pb ed="ms" n="1"/>
+                <pb ed="print" n="6"/>
+                <gap quantity="7" unit="lines" reason="editorial" source="print"/>
+                <lb ed="ms" n="1"/>
+                <lb ed="print" n="1"/>
+                <opener>
+                    <dateline><placeName key="2695">Madraß</placeName>, <date when-iso="1790-01-15"
+                            >15 Jan. 1790</date></dateline>
+                    <lb ed="ms print"/>
+                    <salute>Wohlgebohrner Herr!</salute>
+                </opener>
+                <p><lb ed="ms print"/>Ich habe nicht die Ehre Ew. p. persönlich bekannt zu seyn, und
+                    wollte <lb ed="print"/>Gott, ich würde <lb ed="ms"/>nicht durch eine traurige
+                    Gelegenheit veranlaßt, mich <lb ed="print"/>Ihnen schriftlich bekannt zu machen.
+                        <lb ed="ms"/>Diese Veranlassung – die <lb ed="print"/>schmerzhafteste,
+                    welche einem Freund gegeben werden kann – <lb ed="ms"/>ist das <lb ed="print"
+                    />Absterben Ihres <persName key="2140">HE. Bruders</persName> am <date
+                        when-iso="1789-09-09">9ten September 1789</date> hieselbst – es <lb
+                        ed="print"/>geschieht auf <lb ed="ms"/>besonders Verlangen des
+                    Unvergeßlichen, daß ich Ihnen <lb ed="print"/>schreibe – ich fühle mich un<lb
+                        ed="ms" break="no"/>fähig, diesen Auftrag gehörig auszurichten, <lb
+                        ed="print"/>und mein seliger Freund hat bloß meinen <lb ed="ms"/>guten
+                    Willen in Betracht ge<lb ed="print" break="no"/>zogen, da er mir dieses letzte
+                    Merkmahl seines Zutrau<lb ed="ms" break="no"/>ens schenkte. <lb ed="print"
+                    />Schon seit geraumer Zeit hatte die Gesundheit des Seligen merklich <lb
+                        ed="print"/>ab<lb ed="ms" break="no"/>genommen; sein ohnehin schwacher
+                    Körper ward durch ein zwey<lb ed="print" break="no"/>jähriges Leiden, wel<lb
+                        ed="ms" break="no"/>ches ihm eine <rs type="keyword">blinde
+                        Verfolgungssucht</rs> zuzog, die <lb ed="print"/>durch Bosheit veranlaßt,
+                    und <lb ed="ms"/>durch Schwachheit, die in derselben Ruhm <lb ed="print"/>zu
+                    finden hoffte, geschützt wurde, noch mehr <lb ed="ms"/>zerrüttet; und, ob ihn
+                        <lb ed="print"/>gleich sein starker Geist aufrecht erhielt, das Ende seiner
+                        <lb ed="ms"/>Trübsale <lb ed="print"/>auszudauern, so können Sie sich doch
+                    leicht vorstellen, wie sehr die <lb ed="print"/>Lebens<lb ed="ms" break="no"
+                    />kräfte, durch die Leiden welche ein solches Herz und Geist er<lb ed="print"
+                        break="no"/>dulden mußten, unter<lb ed="ms" break="no"/>graben wurden. Seine
+                    gewöhnliche Krankheit <lb ed="print"/>war eine <rs type="keyword">häufige
+                        Ergießung der Galle</rs>
+                    <lb ed="ms"/>und <rs type="keyword">unwillkührliche Erbrechen</rs>. <lb
+                        ed="print"/>Diese Zufälle kamen einige Monate vor seinem Ende <lb ed="ms"
+                    />öfterer, und eine <lb ed="print"/><rs type="keyword">Fühllosigkeit und Lähmung
+                        in den Beinen und Händen</rs> gesellte <lb ed="ms"/>sich <lb ed="print"
+                    />dazu. Nachdem durch Eingang des <expan><abbr>R</abbr><am>.</am><ex
+                            resp="print">egiments</ex></expan>
+                    <expan><abbr>G</abbr><am>.</am><ex resp="print">erichts</ex></expan> Spruchs <lb
+                        ed="print"/>seine Ehre gerichtlich und öffent<lb ed="ms" break="no"/>lich
+                    gerettet, und auch durch Beyl<lb ed="print>" break="no"/>egung einiger
+                    unvermeidlichen Privataffairen – <lb ed="ms"/>die für ihn glücklich <lb
+                        ed="print"/>ausfielen, und seine Widersacher fühlbar straften – seine Ehre
+                        <lb ed="ms"/>auch <lb ed="print"/>von dieser Seite gesichert war – that er
+                    einige Zeit Dienste im Re<pb ed="print" n="7"/>giment, wozu <lb ed="ms"/>er die
+                    größte Anstrengung seiner Kräfte gebrauchte; und <lb ed="print"/>ging darauf,
+                    auf Anrathen <lb ed="ms"/>seiner Freunde, einige <measure quantity="30"
+                        unit="miles">30 Englische Meilen</measure>
+                    <lb ed="print"/>von hier ins Land, um Ruhe zu schöpfen, da <lb ed="ms"/>selbst
+                    die Ärzte diese Ruhe <lb ed="print"/>zu seiner Besserung unentbehrlich hielten.
+                    – Aber nach einigen <lb ed="ms"/>Tagen <lb ed="print"/>stellte sich die <rs
+                        type="keyword">Lähmung</rs> heftiger ein, und unterm <date
+                        when-iso="1789-08-23">23ten August</date> schrieb <lb ed="print"/>er mir <lb
+                        ed="ms"/>von daher ihn abzuhohlen und dabey folgendes: <lb ed="print"/>
+                    <cit>
+                        <quote>„Die <rs type="keyword">Lähmung</rs> meiner Glieder ist <lb ed="ms"/>
+                            immer stärker geworden, so daß <lb ed="print"/>ich für die Zukunft
+                            äußerst besorgt zu werden anfange; <pb ed="ms" n="2"/> auf die Beine <lb
+                                ed="print"/>kann ich gar nicht mehr treten, und komme daher nicht
+                            aus der Stube. <lb ed="ms print"/>– Diese Erschlaffung der Muskeln hat
+                            sich auch auf die Arme, den <lb ed="print"/>Bauch und itzt die <lb
+                                ed="ms"/>Brust ausgedehnt, in welcher ich besonders viel <lb
+                                ed="print"/>Schmerzen fühle pp – es ist <lb ed="ms"/>hart, daß, da
+                            ich mich erst soeben aus <lb ed="print"/>einem Labyrinth von Leiden und
+                            Verdruß her<lb ed="ms" break="no"/>aus<space quantity="1" unit="chars"
+                                source="ms"/>gewickelt, mich <lb ed="print"/>schon wieder ein
+                            Unglück neuer Art heimsucht. Ich eilte voll<lb ed="ms"/>Hoff<lb
+                                ed="print" break="no"/>nung hieher, um die Heilkraft der Einsamkeit
+                            für mein krankes Herz <lb ed="print"/>zu <lb ed="ms"/>versuchen, um in
+                            heiterer ländlicher Stille mich wieder zu finden, <lb ed="print"/>wie
+                            ich war vor <lb ed="ms"/>dieser zweyjährigen leidenschaftlichen
+                            Zerrüttung. – <lb ed="print"/>Nun muß auch diese Hoffnung <lb ed="ms"
+                            />durch eine neue Furcht vereitelt <lb ed="print"/>werden! – Ach ich
+                            fühle es, daß die Ahndung die <lb ed="ms"/>mich schon lange <lb
+                                ed="print"/>verfolgt hat, nur zu wahr sey – es giebt für mich kein
+                            Glück <lb ed="ms"/>im <lb ed="print"/>Leben! – Das habe ich mir schon
+                            Jahre lang gesagt, und beynahe <lb ed="print"/>jeder Tag <lb ed="ms"
+                            />ist ein Beweis gewesen, daß ich schon zu lange gelebt pp. <lb
+                                ed="print"/>Sobald ich nach Madraß <lb ed="ms"/>komme, will ich
+                            Gewißheit haben, ob ich <lb ed="print"/>hier curirt werden kann oder
+                            nicht – jetzt <lb ed="ms"/>bin ich mit der Cur <lb ed="print"/>auf dem
+                            falschen Wege, das fühle ich – so lange will ich mich <lb ed="ms"
+                                />aufzu<lb ed="print" break="no"/>heitern versuchen so gut ich kann,
+                            und kühn dem Wege folgen, den <lb ed="print"/>mich mein <lb ed="ms"
+                            />Schicksal führt – – “</quote>
+                        <bibl><author key="2140"/></bibl>
+                    </cit> Sie sehen hieraus, wie er sich fühlte – einige Tage nach Erhalt dessen
+                        <lb ed="print"/>kam er hier; <lb ed="ms"/>die <rs type="keyword"
+                        >Lähmung</rs> hatte so zugenommen, daß er ohne Hülfe das <lb ed="print"
+                    />Bett nicht verlassen <lb ed="ms"/>konnte. Die eine Hand konnte er gar nicht
+                        ge<lb ed="print" break="no"/>brauchen, das <rs type="keyword">Erbrechen</rs>
+                        continuir<lb ed="ms" break="no"/>te und <rs type="keyword"
+                        >Brustbeklemmungen</rs> stellten <lb ed="print"/>sich häufig ein. Sein
+                    Körper litt wenig, wahr<lb ed="ms" break="no"/>scheinlich weil alle Muskeln <lb
+                        ed="print"/>und Nerven erschlafft waren; er blieb heiter, ließ sich <lb
+                        ed="ms"/>vorlesen und unter<lb ed="print" break="no"/>hielt sich mit seinen
+                    Freunden – ein geschickter Englischer Arzt <lb ed="ms"/>war <lb ed="print"
+                    />angenommen, der mit den ersten Männern der Facultät consultirte, <lb
+                        ed="print"/>die aber <lb ed="ms"/>wenig Hoffnung zur Genesung gaben –
+                    indessen ward er nicht <lb ed="print"/>schlimmer als ihn plötz<lb ed="ms"
+                        break="no"/>lich den <date when-iso="1789-09-09">9. September</date> gegen
+                    Abend eine heftige <lb ed="print"/>
+                    <rs type="keyword">Brustbeklemmung</rs> überfiel – der geru<lb ed="ms"
+                        break="no"/>fene Arzt gab ihn auf – seine <pb ed="print" n="8"/>Freunde
+                    hinterbrachten ihm dieses Urtheil – mit thrä<lb ed="ms" break="no"/>nenden
+                    Augen, er <lb ed="print"/>allein blieb gelassen – die <rs type="keyword"
+                        >Krämpfe</rs> waren abwechselnd stark – <rs type="keyword"><lb ed="ms"/>er
+                            phan<lb ed="print" break="no"/>tasirte gleichfalls abwechselnd</rs> – es
+                    wurden ihm Erleichterungsmittel <lb ed="print"/>gereicht – <lb ed="ms"/><c
+                        style="majusc" source="print">d</c>ie <rs type="keyword"
+                    >Beklemmung</rs>schien nachzulassen – er verlangte auf einen Stuhl gebracht zu
+                    werden, <pb ed="ms" n="3"/>kaum hatte er sich gesetzt, lehnte <lb ed="print"/>er
+                    den Kopf zurück, schlug die Augen gen Himmel, <lb ed="ms"/>holte tief Odem – <lb
+                        ed="print"/>und erlosch – keine convulsivische Bewegung – nicht die mindeste
+                        <lb ed="print ms"/>Veränderung oder Bewegung in seinen Gesichtszügen – es
+                    war die er<lb ed="print" break="no"/>schöpfte Natur. <lb ed="ms"/>– <lb
+                        ed="print"/><date when-iso="1789-09-10">Tages darauf</date> Nachmittags 4
+                    Uhr ward er auf gewöhnliche Militärische <lb ed="print"/>Art auf <lb ed="ms"
+                    />dem hiesigen Gottesacker, wo bereits viele seiner Cameraden, <lb ed="print"
+                    />begraben – die <lb ed="ms"/>Officiers und alle Stabs-Officiers beyder
+                    Regimenter <lb ed="print"/>begleiteten die Leiche – der <lb ed="ms"/><persName
+                        key="6211">Pastor Holscher</persName> hielt eine kurze Rede, die <lb
+                        ed="print"/>Beyfall erhielt. So verlohr die bürger<lb ed="ms" break="no"
+                    />liche Gesellschaft, und der Stand, <lb ed="print"/>dem er sich gewidmet, ein
+                    bereits rühmliches und <lb ed="ms"/>nützliches Mitglied – <lb ed="print"/>von
+                    ihm kann ich mit Recht sagen, er ward nicht umräuchert <lb ed="ms"/>und <lb
+                        ed="print"/>verachtet, er ward hochgeschätzt und gequält. – Viele Freunde
+                        <lb ed="print"/>hat er sich zu <lb ed="ms"/>erwerben gewußt, und seine
+                    Vertrauten hingen fest an <lb ed="print"/>ihm, haben mit ihm ausge<lb ed="ms"
+                        break="no"/>dauert und oft seinen sinkenden Geist auf<lb ed="print"
+                        break="no"/>recht erhalten. <hi rend="underscore" source="ms">Sie</hi>
+                    kannten gewiß sein <lb ed="ms"/>Herz <expan><abbr>u</abbr><ex resp="print"
+                            >nd</ex></expan> seinen Geist; in bey<lb ed="print" break="no"/>den
+                    Stücken war er über gewöhnliche Menschen – leider <lb ed="ms"/>haben diese <lb
+                        ed="print"/>Vorzüge nicht seines Lebens Glück gemacht. Auch in diesem
+                        Welt<lb ed="ms" break="no"/>theile <lb ed="print"/>ist er nicht unbekannt
+                    geblieben – der <bibl><title key="2696" level="j">Madraß Courier</title></bibl>,
+                    ein privilegir<lb ed="print" break="no"/>tes <lb ed="ms"/>Blatt, welches sich
+                    weit über alltägliche Zeitungen erhebt, kündigte <lb ed="print"/>den Tod mei<lb
+                        ed="ms" break="no"/>nes Freundes unterm <date when-iso="1789-09-16">16
+                        September</date> folgendermaßen an: <hi rend="underscore" source="ms"
+                        >Death</hi>
+                    <quote rend="script:Latin" xml:lang="eng">„<persName key="2140">Lieutenant
+                                Schle<lb ed="ms" break="no"/>gel</persName>, an Officer in one of
+                        his Majestyʼs <lb ed="print"/>Hanoverian regiments; extremely estee<lb
+                            ed="ms" break="no"/>med, and equally regretted by <lb ed="print"/>his
+                        brothers Officers and friends“</quote>, und den <date when-iso="1789-10-21"
+                        >21 <expan><abbr>Oct</abbr><ex resp="print">ober</ex></expan></date>
+                    <lb ed="ms"/>erschienen im nehmlichen Blatte folgende Zeilen: <cit>
+                        <quote rend="script:Latin" xml:lang="eng"><lb ed="print ms"/>Lines <lb
+                                ed="print ms"/>written on the death of<persName key="2140"
+                                >Lieutenant Schlegel</persName>
+                            <lb ed="print ms"/>Shade of my friend, if haply thou canst see <lb
+                                ed="print ms"/>The tear that falls in memory of thee, <lb
+                                ed="print ms"/>Accept the tribute to thy virtues due, <lb
+                                ed="print ms"/>To candor – worth – and all that friendship knew! <lb
+                                ed="print ms"/>Had thy frail frame been as thy spirit strong, <lb
+                                ed="print ms"/>How blest thy ripenʼd age, thy life how long! <pb
+                                ed="print" n="9"/><lb ed="ms"/>Firm to the last, amidst a baleful
+                            strife, <lb ed="print ms"/>That robbʼd thy breast of happiness and life,
+                                <pb ed="ms" n="4"/><lb ed="print"/>Thine was the triumph, en envyʼs
+                            the defeat, <lb ed="print ms"/>And the still grave the happy calm
+                            retreat. <lb ed="print ms"/>Unkindly powʼr of malice<add resp="print"
+                                >[ʼs]</add> tainted breath, <lb ed="print ms"/>Whose looks are
+                            poison and whose words are death! <bibl/>
+                        </quote>
+                    </cit>
+                    <quote>
+                        <lb ed="print ms"/> Sir <choice>
+                            <orig source="ms"><lb ed="ms"/>The</orig>
+                            <reg source="print">, the</reg>
+                        </choice> above lines should not be scrutinized with the eye of a critick,
+                            <lb ed="print"/>but be con<lb ed="ms" break="no"/>sidered as the
+                        effusions of a heart that felt for the loss of a <lb ed="print"/>dear and
+                        respected <lb ed="ms"/>friend. If you will be so kind to give them a place
+                            <lb ed="print"/>in the <name key="2696" type="newspaper">Madraß
+                            Courier</name>
+                        <lb ed="ms"/>you will highly oblige – – a constant reader.</quote><lb
+                        ed="print ms"/>Ich glaube nicht nöthig zu haben, zu versichern, daß diese
+                    Verse all<lb ed="print" break="no"/>gemeinen Be<lb ed="ms" break="no"/>fall
+                    erhielten; den mußte ihnen jeder Unbefangne zu<lb ed="print" break="no"
+                    />gestehen, denn sie enthalten <lb ed="ms"/>Wahrheit, obgleich für manchen eine
+                        <lb ed="print"/>fürchterliche Wahrheit.<lb ed="print ms"/>Noch vor Anfang
+                    seiner Krankheit gab er mir alle seine Papiere in <lb ed="print"/>Verwah<lb
+                        ed="ms" break="no"/>rung, mit dem Auftrage, einige, die mir besonders
+                    benannt, an <lb ed="print"/>seinen Bruder <lb ed="ms"/><rs key="766">Wilhelm
+                        Schlegel</rs> zu senden. Das Paket ist zu stark, um <lb ed="print"/>es auf
+                    die gewöhnliche <lb ed="ms"/>Art zu befördern; ich werde aber Sorge tragen, <lb
+                        ed="print"/>sobald jemand von hier reiset, dem <lb ed="ms"/>ichs <del
+                        resp="ms" rend="crossout">an</del> anvertrauen kann – oder <lb ed="print"/>
+                    <add resp="print">[wenn]</add> wie zu vermuthen, die Regimenter noch in die<lb
+                        ed="ms"/>sem Jahre zurück<lb ed="print" break="no"/>kehren, es selbst
+                    mitbringen. Mein Freund hat kein Testament <lb ed="ms"/>ge<lb ed="print"
+                        break="no"/>macht, bloß nur eine <expan><abbr>d</abbr><ex resp="print"
+                            >en</ex></expan>
+                    <date when-iso="1789-08-01">1 <expan><abbr>Aug</abbr><ex resp="print"
+                            >ust</ex></expan></date> datirte schriftliche Vollmacht, die <lb
+                        ed="print"/>Acten seines <lb ed="ms"/>Processes und übrige Schriften
+                    betreffend – dieses mach<lb ed="print" break="no"/>ten gewisse Umstände <lb
+                        ed="ms"/>nöthig. – Ich lege eine Abschrift des Urtheils <lb ed="print"/>bey;
+                    die vom Reg. Gerichte erhaltne <lb ed="ms"/>fidemirte Copey würde meinen <lb
+                        ed="print"/>Brief zu stark machen. Ich finde jedoch daß ich <lb ed="ms"
+                    />weitläuftig geworden; <lb ed="print"/>da mein Brief bloß für Ihre Familie
+                    geschrieben ist, <lb ed="ms"/>so glaubte ich, daß <lb ed="print"/>verschiedne
+                    einem Fremden vielleicht unbedeutend scheinen<lb ed="ms" break="no"/>de Umstände
+                    für selbige Werth haben könnten. –<lb ed="print ms"/>Sollte ich darauf mein
+                    Vaterland wiedersehen, so schmeichle ich mir <lb ed="print"/>mit einer <lb
+                        ed="ms"/>genauern Bekanntschaft mit einer Familie, für die <lb ed="print"
+                    />ich die größte Hochachtung hege.<lb ed="ms"/>Versichern Sie Ihrem HE Vater und
+                    Fr. <lb ed="print"/>Mutter meinen Respect. Möge Gott selbige <lb ed="ms"/>an den
+                    übrigen Ihrer <lb ed="print"/>Familie diejenige Freude erleben lassen wozu mein
+                    seliger <lb ed="ms"/>unvergeß<lb ed="print" break="no"/>licher Freund so große
+                    Hoffnung gab. </p>
+                <closer>
+                    <salute>Ich habe die Ehre p</salute>
+                    <signed><rs key="8998">Aug. v. Honstedt</rs>
+                        <expan><abbr>Capit</abbr><ex resp="print">än</ex></expan> 14
+                                <expan><abbr>R</abbr><ex resp="print">egiment</ex></expan></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
