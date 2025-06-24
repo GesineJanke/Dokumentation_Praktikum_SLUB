@@ -6,7 +6,7 @@ Ziel des Projekts war die Analyse und Verbesserung der bestehenden TEI-Auszeichn
 
 ## Dokumentation bei Zenodo
 
-Die vollständige Dokumentation zum Praktikumsprojket ist auf Zenodo veröffentlicht und dort zitierfähig abrufbar:
+Die vollständige Dokumentation zum Praktikumsprojekt ist auf Zenodo veröffentlicht und dort zitierfähig abrufbar:
 
 👉 [**DOI: 10.5281/zenodo.xxxxxx**](https://doi.org/10.5281/zenodo.xxxxxx)  
 *(Link bitte nach Veröffentlichung auf Zenodo ersetzen)*
