@@ -1,6 +1,6 @@
 # TEI-Transformation der Schlegel-Korrespondenz
 
-Dieses Repository enthält den Code, die transformierten TEI-Dateien, statistische Auswertungen und weitere Materialien zur Dokumentation unseres **Praktikumsprojekts im Masterstudiengang Digital Humanities an der TU Dresden** in Kooperation mit der *Sächsischen Landesbibliothek — Staats- und Universitätsbibliothek Dresden (SLUB)* im Wintersemester 2024/2025.
+Dieses Repository enthält den Code, die transformierten TEI-Dateien, statistische Auswertungen und weitere Materialien unserem **Praktikumsprojekts, welches im Masterstudiengang Digital Humanities an der TU Dresden** in Kooperation mit der *Sächsischen Landesbibliothek — Staats- und Universitätsbibliothek Dresden (SLUB)* im Wintersemester 2024/2025 enstanden ist.
 
 Ziel des Projekts war die Analyse und Verbesserung der bestehenden TEI-Auszeichnung der vorrangegangenen Projekts "Digitalen Edition der Korrespondenz August Wilhelm Schlegels".
 
@@ -8,8 +8,8 @@ Ziel des Projekts war die Analyse und Verbesserung der bestehenden TEI-Auszeichn
 
 Die vollständige Dokumentation zum Praktikumsprojekt ist auf Zenodo veröffentlicht und dort zitierfähig abrufbar:
 
-👉 [**DOI: 10.5281/zenodo.xxxxxx**](https://doi.org/10.5281/zenodo.xxxxxx)  
-*(Link bitte nach Veröffentlichung auf Zenodo ersetzen)*
+👉 [**DOI: 10.5281/zenodo.15730712**](https://doi.org/10.5281/zenodo.15730712)    
+
 
 ## Inhalte dieses Repositories
 
